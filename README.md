@@ -30,3 +30,7 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
+![Screenshot (415)](https://user-images.githubusercontent.com/83887301/141009587-3da99c55-a05c-429f-8df0-334875c0570e.png)
+![Screenshot (412)](https://user-images.githubusercontent.com/83887301/141009590-8d98dc5f-9ca9-4cde-8be9-22e277942bd7.png)
+![Screenshot (413)](https://user-images.githubusercontent.com/83887301/141009591-09f0d8e4-6fe2-4554-863b-2c5e9e1dfb1d.png)
+![Screenshot (414)](https://user-images.githubusercontent.com/83887301/141009592-01ae1b6a-b237-4be6-94c8-e7777c450c13.png)
